@@ -1,0 +1,37 @@
+body {
+background-color:#EFEFEF;
+}
+.container{
+    background: white;
+    width: 700px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+ }
+
+.photo{
+	padding-top:50px;
+	text-align:center;
+	}
+.frontend{
+	padding-left:10%;
+	padding-right: 10%;
+	margin:20px;
+}
+.list{
+	padding-left: 20%;
+	font-size: 22px;
+}
+li{
+	margin:10px;
+}
+p{
+	padding-top:20px ;
+	margin:8px;
+}
+a{
+	text-decoration:none;
+	margin:20px;
+
+}
